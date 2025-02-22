@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Adralan
-- 👀 I’m interested in: learn new things
-- 🌱 I’m currently learning: program in c
+- 👀 I'm new to all this, please be patient...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i have a dachshund named Biscoito 🍪
+- ⚡ Fun fact: I want to create a game from my book ✨
 
 <!---
 Adralan/Adralan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
