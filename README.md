@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NicoHugo
+- 👋 Hi, I’m @ashmorthorn
 - 👀 I'm new to all this, please be patient...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I want to create a game from my book ✨
